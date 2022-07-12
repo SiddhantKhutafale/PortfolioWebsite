@@ -2,7 +2,7 @@
 
 A breathtaking portfolio website with advanced animation made by various techniques like gsap library,Animate.css and CustomCss.
 
-![alt text](public\Image\Home Page (2).png)
+![alt text](Image/Home%20Page%20(2).png)
 
 # Features
 1) Home Page
@@ -14,15 +14,15 @@ A breathtaking portfolio website with advanced animation made by various techniq
 
 # HomePage
 
-![alt text](Image\Home%20Page%20(2).png)
+![alt text](Image/Home%20Page%20(2).png)
 
 
 # AboutPage
 
-![alt text](Image\Aboutpage.png)
+![alt text](Image/Aboutpage.png)
 
 # ContactPage
 
-![alt text](Image\ContactPage.png)
+![alt text](Image/ContactPage.png)
 
 
