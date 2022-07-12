@@ -14,15 +14,15 @@ A breathtaking portfolio website with advanced animation made by various techniq
 
 # HomePage
 
-![alt text](public\Image\Home%20Page%20(2).png)
+![alt text](Image\Home%20Page%20(2).png)
 
 
 # AboutPage
 
-![alt text](public\Image\Aboutpage.png)
+![alt text](Image\Aboutpage.png)
 
 # ContactPage
 
-![alt text](public\Image\ContactPage.png)
+![alt text](Image\ContactPage.png)
 
 
